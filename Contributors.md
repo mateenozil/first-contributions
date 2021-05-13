@@ -594,6 +594,7 @@ Berliana
 - [Kiran Kumar B](https://github.com/kumarkvy)
   [Dongjoon Min](httpsL//github.com/djmin43)
 - [Jack Harrington](https://github.com/Jackbytes)
+- [rejsg](www.google.com)
 - [Lauri Lyytikäinen](https://github.com/ExtraLongBaguette)
 - [Sariq Sahazada](https://github.com/Sariq16)
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
